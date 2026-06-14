@@ -49,4 +49,4 @@ No drag Range = `v **2 * np.sin(2 * gamma) / g`
   equation.py : Physics model used in compare_drag.py
   
 - sling_model/
-  sling_model.py : Physics model used in vpython_sling_3D.py
+  sling_model.py : Physics model used in vpython_sling_3d.py
