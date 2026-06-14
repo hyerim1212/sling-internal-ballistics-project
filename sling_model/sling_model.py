@@ -1,12 +1,3 @@
-"""Physics model for Mark Denny, "Internal ballistics of the sling".
-
-The functions implement the pirouette-style sling approximations used in the
-paper: constant angular acceleration during wind-up, massless stiff cords, no
-gravity/drag during internal ballistics, and quadratic drag after release.
-The public `summarize` entry point is style-aware so Section III models can be
-added without changing the controller program.
-"""
-
 from __future__ import annotations
 
 from dataclasses import dataclass
