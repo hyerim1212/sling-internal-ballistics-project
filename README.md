@@ -43,7 +43,7 @@ No drag Range = `v **2 * np.sin(2 * gamma) / g`
   Default parameters match the paper's example: `P = 200 W`, `r = 2.5 m`,
   `m = 0.454 kg`, and `n = 3`.
 
-  This code runs with VPython. If vpython is not installed, please install vpython.
+  **This code runs with VPython. If vpython is not installed, please install vpython.**
 ## extra files - packages and modules
 - set_of_equation/
   equation.py : Physics model used in compare_drag.py
