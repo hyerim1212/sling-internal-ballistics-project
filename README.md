@@ -18,7 +18,7 @@ Release speed `v = 2 * (np.pi * r * n * P / m)**(1/3)`
 No drag Range = `v **2 * np.sin(2 * gamma) / g`
 
 
-# Second python file - vpython_sling_3D
+# Second python file - vpython_sling_3d
 - The simulation follows the paper's simplified pirouette-style sling model.
   
   The bullet moves in a circular arc in one fixed plane.
