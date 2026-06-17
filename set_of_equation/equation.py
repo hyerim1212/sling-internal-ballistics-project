@@ -7,7 +7,6 @@ m = 0.454
 b = 0.026  
 W = 0.40 
 R_target = 20  
-r = 3
 
 def release_speed(r, n, P, m):
     return 2 * (np.pi * r * n * P / m)**(1/3)
