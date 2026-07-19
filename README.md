@@ -1,5 +1,5 @@
 # Physics Project: Step-by-Step Mathematical Derivations and Python 
-202611202, Hyerim Jung, General physics I, section 02, New Group 12
+Hyerim Jung, General physics I, section 02, New Group 12
 
 ## sling-internal-ballistics
 I wrote Python codes for calculation and simulation to visualize the effect of air drag on the trajectory of a sling bullet.
